@@ -21,7 +21,7 @@
 
 `TODO://` Ajoutez l'URL de votre application animée `gif` dans la balise d'image ci-dessous, `YOUR_GIF_URL_HERE`. Assurez-vous que le gif s'affiche et s'anime réellement lors de la visualisation de ce README. (🚫 Supprimez ce paragraphe après avoir ajouté le gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://imgur.com/gGgAHGF" width=250><br>
 
 ### Remarques
 
