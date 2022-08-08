@@ -19,7 +19,7 @@
 
 ### App Walkthrough GIF
 
-<img src="https://imgur.com/gGgAHGF.gif" width=250><br>
+<img src="https://github.com/Desir-Johnny/Flixster2/blob/master/Movie.gif" width=250><br>
 
 ### Remarques
 
